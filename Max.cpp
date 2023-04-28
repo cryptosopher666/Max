@@ -12,6 +12,6 @@ main(){
     else
 	max=c;
 	
-	cout<<"Max ="<<max;
+	cout<<"Max = "<<max;
 	getch();
 }
